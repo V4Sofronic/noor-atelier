@@ -2,6 +2,9 @@
 
 A luxury Eastern wear storefront featuring bridal fashion, formal wear, party outfits, everyday clothing, and more. Noor Atelier combines elegant design with interactive shopping features, animated visuals, and bilingual English/Urdu support.
 
+## Live Link 
+https://noor-atelier-m.vercel.app/
+
 ## Features
 
 - Animated bridal hero with a slow-dissolve frame sequence
