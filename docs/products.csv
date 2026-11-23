@@ -1,0 +1,96 @@
+id,name,category,price_pkr,image_file
+0,Maroon & Gold Bridal Set,Bridal,98000,images/products/00-maroon-gold-bridal-set.jpg
+1,Gold Bridal Maxi with Red Dupatta,Bridal,89000,images/products/01-gold-bridal-maxi-with-red-dupatta.jpg
+2,Crimson Embroidered Bridal Lehenga,Bridal,112000,images/products/02-crimson-embroidered-bridal-lehenga.jpg
+3,Gold & Red Classic Bridal Lehenga,Bridal,94000,images/products/03-gold-red-classic-bridal-lehenga.jpg
+4,Red Bridal Anarkali Gown,Bridal,86000,images/products/04-red-bridal-anarkali-gown.jpg
+5,Ruby Embroidered Bridal Lehenga,Bridal,105000,images/products/05-ruby-embroidered-bridal-lehenga.jpg
+6,Velvet Maroon Bridal Maxi,Bridal,92000,images/products/06-velvet-maroon-bridal-maxi.jpg
+7,Ivory Gold Bridal Gharara,Bridal,64000,images/products/07-ivory-gold-bridal-gharara.jpg
+8,Ivory Sequin Nikkah Dress,Bridal,58000,images/products/08-ivory-sequin-nikkah-dress.jpg
+9,White Tiered Gharara Set,Bridal,66000,images/products/09-white-tiered-gharara-set.jpg
+10,Champagne Walima Maxi,Bridal,78000,images/products/10-champagne-walima-maxi.jpg
+11,Blush & Silver Ball Gown Lehenga,Bridal,125000,images/products/11-blush-silver-ball-gown-lehenga.jpg
+12,Silver Grey Couture Bridal Gown,Bridal,148000,images/products/12-silver-grey-couture-bridal-gown.jpg
+13,Black Embroidered Anarkali Set,Formal,34500,images/products/13-black-embroidered-anarkali-set.jpg
+14,Blush Sequin Jacket Suit,Formal,28900,images/products/14-blush-sequin-jacket-suit.jpg
+15,Champagne Gold Formal Sharara Set,Formal,52000,images/products/15-champagne-gold-formal-sharara-set.jpg
+16,Black Velvet Embroidered Suit,Formal,38500,images/products/16-black-velvet-embroidered-suit.jpg
+17,Fawn Silk Embroidered Kurta Set,Formal,24800,images/products/17-fawn-silk-embroidered-kurta-set.jpg
+18,Lilac Pink Embroidered Anarkali Gown,Formal,46000,images/products/18-lilac-pink-embroidered-anarkali-gown.jpg
+19,Pistachio Chiffon Embroidered Suit,Formal,31500,images/products/19-pistachio-chiffon-embroidered-suit.jpg
+20,Maroon Embroidered Festive Suit,Formal,36900,images/products/20-maroon-embroidered-festive-suit.jpg
+21,Sitara Party Maxi,Party,27500,"images/party-maxi/ (animated, 20 frames)"
+22,Steel Blue Gold Embroidered Sharara Set,Party,29500,images/products/22-steel-blue-gold-embroidered-sharara-set.jpg
+23,Blush Pink Floral Sharara Set,Party,32000,images/products/23-blush-pink-floral-sharara-set.jpg
+24,Mustard & Green Peplum Lehenga Set,Party,34500,images/products/24-mustard-green-peplum-lehenga-set.jpg
+25,Mocha Sequin Kaftan,Party,26500,images/products/25-mocha-sequin-kaftan.jpg
+26,Sky Blue Embroidered Jacket Gown,Party,48000,images/products/26-sky-blue-embroidered-jacket-gown.jpg
+27,Peach Floral Embroidered Suit,Party,19800,images/products/27-peach-floral-embroidered-suit.jpg
+28,Ivory Ruffle Dupatta Beaded Suit,Party,27500,images/products/28-ivory-ruffle-dupatta-beaded-suit.jpg
+29,Mustard Organza Embroidered Suit,Party,16500,images/products/29-mustard-organza-embroidered-suit.jpg
+30,Silver Grey Jacket Gown,Party,38900,images/products/30-silver-grey-jacket-gown.jpg
+31,Indigo Print Lawn 3pc,Casual,8900,images/products/31-indigo-print-lawn-3pc.jpg
+32,Navy & White Colour-Block Kurta Set,Casual,9400,images/products/32-navy-white-colour-block-kurta-set.jpg
+33,Rose Floral Asymmetric Kurta,Casual,7600,images/products/33-rose-floral-asymmetric-kurta.jpg
+34,Mustard Frock-Style Kurti,Casual,5800,images/products/34-mustard-frock-style-kurti.jpg
+35,Teal Embroidered Kurta Set,Casual,10500,images/products/35-teal-embroidered-kurta-set.jpg
+36,Floral Peplum Kurti with Palazzo,Casual,6900,images/products/36-floral-peplum-kurti-with-palazzo.jpg
+37,Black Embroidered Co-ord Set,Casual,8200,images/products/37-black-embroidered-co-ord-set.jpg
+38,Blush Block-Print Kurta Set,Casual,7800,images/products/38-blush-block-print-kurta-set.jpg
+39,Sage Knit & Cream Pleated Skirt Set,Winter,14500,images/products/39-sage-knit-cream-pleated-skirt-set.jpg
+40,Camel Wool Coat with Pleated Dress,Winter,22500,images/products/40-camel-wool-coat-with-pleated-dress.jpg
+41,Teal Knit Cardigan Set,Winter,18900,images/products/41-teal-knit-cardigan-set.jpg
+42,Rust Long Knit Cardigan,Winter,13800,images/products/42-rust-long-knit-cardigan.jpg
+43,Chunky Knit with Blush Pleated Skirt,Winter,11500,images/products/43-chunky-knit-with-blush-pleated-skirt.jpg
+44,Camel Trench Coat with Plaid Skirt,Winter,19800,images/products/44-camel-trench-coat-with-plaid-skirt.jpg
+45,Pink Knit Set with Fur Cuffs,Winter,16500,images/products/45-pink-knit-set-with-fur-cuffs.jpg
+46,Taupe Wool Coat with Ribbed Skirt,Winter,24000,images/products/46-taupe-wool-coat-with-ribbed-skirt.jpg
+47,Cream & Camel Striped Wool Shawl,Winter,6900,images/products/47-cream-camel-striped-wool-shawl.jpg
+48,Burgundy Fringe Wool Shawl,Winter,7400,images/products/48-burgundy-fringe-wool-shawl.jpg
+49,Navy Dress with Grey Cardigan,Winter,15200,images/products/49-navy-dress-with-grey-cardigan.jpg
+50,Black & Mauve Layered Abaya,Abaya,19500,images/products/50-black-mauve-layered-abaya.jpg
+51,Black Beaded-Sleeve Open Abaya,Abaya,24500,images/products/51-black-beaded-sleeve-open-abaya.jpg
+52,Olive Green Tassel Abaya,Abaya,16800,images/products/52-olive-green-tassel-abaya.jpg
+53,Black Abaya with Champagne Trim,Abaya,15500,images/products/53-black-abaya-with-champagne-trim.jpg
+54,Teal & Blush Jewelled-Edge Abaya,Abaya,27900,images/products/54-teal-blush-jewelled-edge-abaya.jpg
+55,Black Open Abaya with Beaded Edge,Abaya,21000,images/products/55-black-open-abaya-with-beaded-edge.jpg
+56,Taupe Crystal-Embellished Abaya,Abaya,32000,images/products/56-taupe-crystal-embellished-abaya.jpg
+57,Embroidered-Cuff Open Abaya Trio,Abaya,18900,images/products/57-embroidered-cuff-open-abaya-trio.jpg
+58,Powder Blue Butterfly Abaya,Abaya,14800,images/products/58-powder-blue-butterfly-abaya.jpg
+59,Camel Corduroy Abaya,Abaya,17500,images/products/59-camel-corduroy-abaya.jpg
+60,Olive Embroidered Abaya Set,Abaya,23500,images/products/60-olive-embroidered-abaya-set.jpg
+61,Black & Mocha Jacquard Abaya,Abaya,29800,images/products/61-black-mocha-jacquard-abaya.jpg
+62,Slate Blue Ruffle-Hem Abaya,Abaya,16200,images/products/62-slate-blue-ruffle-hem-abaya.jpg
+63,Classic Black Flared Abaya,Abaya,12900,images/products/63-classic-black-flared-abaya.jpg
+64,Navy Lace-Embroidered Abaya,Abaya,38000,images/products/64-navy-lace-embroidered-abaya.jpg
+65,Dove Grey Pearl & Feather Abaya,Abaya,34500,images/products/65-dove-grey-pearl-feather-abaya.jpg
+66,Camel Panelled Abaya,Abaya,15900,images/products/66-camel-panelled-abaya.jpg
+67,Satin Sky Blue Open Abaya,Abaya,26500,images/products/67-satin-sky-blue-open-abaya.jpg
+68,Hot Pink Swiss-Dot Frock,Kids,3900,images/products/68-hot-pink-swiss-dot-frock.jpg
+69,Sage Green Embroidered Sharara Set,Kids,8900,images/products/69-sage-green-embroidered-sharara-set.jpg
+70,Teal Floral Peplum Sharara Set,Kids,6800,images/products/70-teal-floral-peplum-sharara-set.jpg
+71,Purple Embroidered Kurta Set,Kids,9500,images/products/71-purple-embroidered-kurta-set.jpg
+72,Blush Pink Net Gharara Set,Kids,10800,images/products/72-blush-pink-net-gharara-set.jpg
+73,Orange & Magenta Shalwar Set,Kids,7200,images/products/73-orange-magenta-shalwar-set.jpg
+74,Navy Floral Embroidered Kurta Set,Kids,6400,images/products/74-navy-floral-embroidered-kurta-set.jpg
+75,Ivory Gold-Trim Set with Net Dupatta,Kids,8600,images/products/75-ivory-gold-trim-set-with-net-dupatta.jpg
+76,Plum Block-Print Sibling Kurta Set,Kids,7800,images/products/76-plum-block-print-sibling-kurta-set.jpg
+77,Mint Mirror-Work Kurta Set,Kids,9200,images/products/77-mint-mirror-work-kurta-set.jpg
+78,Emerald Embroidered Festive Set,Kids,14500,images/products/78-emerald-embroidered-festive-set.jpg
+79,Olive Shalwar Kameez with Embroidered Collar,Men,8500,images/products/79-olive-shalwar-kameez-with-embroidered-collar.jpg
+80,Sage Green Embroidered Sherwani,Men,58000,images/products/80-sage-green-embroidered-sherwani.jpg
+81,Navy Blue Shalwar Kameez,Men,7900,images/products/81-navy-blue-shalwar-kameez.jpg
+82,Teal Kurta Set with Floral Waistcoat,Men,18500,images/products/82-teal-kurta-set-with-floral-waistcoat.jpg
+83,Charcoal Grey Shalwar Kameez,Men,8200,images/products/83-charcoal-grey-shalwar-kameez.jpg
+84,Burgundy Two-Piece Suit,Men,42000,images/products/84-burgundy-two-piece-suit.jpg
+85,Black Tuxedo Set with Bow Tie,Men,55000,images/products/85-black-tuxedo-set-with-bow-tie.jpg
+86,Navy Suit with Pocket Square,Men,38500,images/products/86-navy-suit-with-pocket-square.jpg
+87,Slim-Fit Navy Suit,Men,34000,images/products/87-slim-fit-navy-suit.jpg
+88,Navy Pinstripe Suit,Men,46000,images/products/88-navy-pinstripe-suit.jpg
+89,Stone Linen Blazer Set,Men,29500,images/products/89-stone-linen-blazer-set.jpg
+90,Maroon Velvet Dupatta with Gold Embroidery,Dupatta,12500,images/products/90-maroon-velvet-dupatta-with-gold-embroidery.jpg
+91,Navy Velvet Embroidered Shawl,Dupatta,24000,images/products/91-navy-velvet-embroidered-shawl.jpg
+92,Black Multicolour Jamawar Shawl,Dupatta,19500,images/products/92-black-multicolour-jamawar-shawl.jpg
+93,Rust Red Embroidered Shawl with Teal Border,Dupatta,26500,images/products/93-rust-red-embroidered-shawl-with-teal-border.jpg
+94,Pink Banarasi Dupatta with Tassels,Dupatta,14800,images/products/94-pink-banarasi-dupatta-with-tassels.jpg
